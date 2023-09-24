@@ -1,0 +1,5 @@
+Test file
+"Line from develop branch"
+"Some additional changes from remote"
+"Line from feature branch"
+Test file
